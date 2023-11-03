@@ -27,10 +27,10 @@ role: A DevOps engineer
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
-  - icon: send
-    link: 'jocelyn.j.m.gomez@gmail.com'
-  - icon: redbook
-    link: https://www.xiaohongshu.com/user/profile/54e70b96a46e960adeb4b8bb
+#  - icon: send
+#    link: 'jocelyn.j.m.gomez@gmail.com'
+#  - icon: redbook
+#    link: https://www.xiaohongshu.com/user/profile/54e70b96a46e960adeb4b8bb
 #    label: Follow me on Twitter
 #  - icon: google-scholar
 #    link: https://scholar.google.com/citations?user=mG4imMEAAAAJ
