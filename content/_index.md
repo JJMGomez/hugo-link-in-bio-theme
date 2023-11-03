@@ -19,13 +19,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - title: Read my latest paper on LLMs
-          icon: arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - title: Watch my new YouTube video to achieve 20x productivity
-          icon: youtube
-          url: https://youtube.com
-        - title: Connect with me on LinkedIn
-          icon: linkedin
-          url: https://linkedin.com
+        - title: 来看我的小红书吧～
+          icon: redbook
+          url: https://www.xiaohongshu.com/user/profile/54e70b96a46e960adeb4b8bb
+        - title: 来看我的B站吧～
+          icon: bilibili
+          url: https://space.bilibili.com/351870895
+        - title: 来看我的抖音吧～
+          icon: douyin
+          url: https://www.douyin.com/user/self?modal_id%253D7293975083515661620
 ---
